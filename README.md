@@ -1,4 +1,6 @@
-# caffe-yolov2
+# caffe-yolov2-aur
+
+Specialized aur version for arch/manjaro installation with opencv4
 
 ## Reference
 
@@ -13,6 +15,8 @@
 > https://github.com/hustzxd/z1
 
 > https://github.com/weiliu89/caffe.git
+
+> https://github.com/gklz1982/caffe-yolov2
 
 ## modifications
 
